@@ -1,1 +1,7 @@
-helloworld
+>>>> hello world
+
+>G>> I am the world and I rule the world. Say hello! 
+
+>G>> Well, you did, so you're safe.
+
+>G>> Anyways, HELLO right back at you!!!
